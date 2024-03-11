@@ -1,0 +1,9 @@
+migrations, factories, models, controllers, route web,view\components na app
+
+
+limitar posts por ip 
+routeserviceprovider.php
+review controller __construct
+
+temas abordados:
+queries na consola, pesquisas de varias formas com funcoes, cache
